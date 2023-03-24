@@ -1,0 +1,25 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "A CLI application to manage a company's employee database.",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CKBoytGT/employee-tracker.git"
+  },
+  "author": "CKBoytGT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CKBoytGT/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/CKBoytGT/employee-tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.2.0"
+  }
+}
