@@ -1,5 +1,5 @@
 DROP DATABASE IF EXISTS employee_db;
-/* DELETE ABOVE BEFORE FINALIZING */
+
 CREATE DATABASE employee_db;
 
 USE employee_db;
