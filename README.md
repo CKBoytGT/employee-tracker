@@ -8,7 +8,7 @@ You will need [Node.js](https://nodejs.org/en) and [MySQL](https://dev.mysql.com
 3. Install dependencies using `npm i`.
 4. Enter the MySQL shell and initialize the database using `SOURCE .\db\schema.sql`.
 5. *Optional:* seed the database with example data using `SOURCE .\db\seed.sql`.
-6. Using your editor of choice, modify the credentials on lines 9-10 of app.js to match your MySQL installation.
+6. Using your editor of choice, modify the credentials on lines 9-11 of app.js to match your MySQL installation.
 
 ## Usage
 1. To launch the app from the CLI, use `npm start` or `node app.js` while in the `employee-tracker` directory.
