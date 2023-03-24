@@ -15,4 +15,4 @@ You will need [Node.js](https://nodejs.org/en) and [MySQL](https://dev.mysql.com
 3. To exit, scroll down to "QUIT" in the main menu options.
 
 ## Demo Video
-Pending.
+[employee-tracker-demo.webm](https://user-images.githubusercontent.com/118075006/227415126-44ae33c9-820a-45fd-97b2-fda60408c3ed.webm)
